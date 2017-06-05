@@ -9,11 +9,11 @@ liusidaUI。适用于手机网站,APP网站等。官方网站：<a href="http://
 目录结构
 ------------------
 liusidaUI  
-├── css  **css文件目录**   
-│   └── base.css  **全站都引用的css文件**    
-├── images  **图片文件目录**    
-├── index.html  **项目首页**   
-├── js  **js文件目录**  
-│   └── base.js  **全站都引用的js文件**   
-└── README.md  **读我**  
+├── css    **css文件目录**   
+│   └── base.css    **全站都引用的css文件**    
+├── images    **图片文件目录**    
+├── index.html    **项目首页**   
+├── js    **js文件目录**  
+│   └── base.js    **全站都引用的js文件**   
+└── README.md    **读我**  
 
